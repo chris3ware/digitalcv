@@ -20,7 +20,7 @@ ___
 
 **Public Cloud:** Amazon Web Services, Azure
 
-**Devops:** Python, Ansible, Vagrant, Terraform, Docker, Linux, Git, CI/CD.
+**Devops:** Terraform, CI/CD, Git, Python, Ansible, Docker, Linux
 
 **VPN/Tunnelling:** IPSEC, SSL-VPN, GRE, DMVPN.
 
@@ -52,7 +52,11 @@ ___
 
 ___
 
-### December 2019 – Present: Jumar Technology. (Contract)
+### April 2021 - Present: Cloud Architect, Vodafone Business
+
+Cloud Architect supporting the development of the Dedicated Managed Edge Compute (DedMEC) product, which combines Vodafone’s Mobile Private Network product portfolio with Azure Stack Edge appliances to deliver cloud computing resources at the mobile network edge.
+
+### December 2019 – March 2021: Jumar Technology. (Contract)
 
 Infrastructure Architect aligned with the Technical Asset Management (TAM) delivery unit, which aims to rollout the Snow Asset management tool to the entire DWP datacentre and cloud estate. The main purpose of the engagement is to design and deliver the Snow infrastructure required in AWS and Azure to facilitate, secure, highly available connectivity between Snow Agents installed on virtual machines and the Snow Inventory Servers.
 
@@ -136,4 +140,3 @@ August 2003-June 2004: Solution Support Engineer, Energis. Leeds.
 June 2001-August 2003: Systems and Infrastructure Engineer, Energis. Leeds.
 
 August 2000-June 2001: I.T. Assistant, City of York Council. York.
-
